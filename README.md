@@ -1,0 +1,1 @@
+For my groups capstone project we are classifying audio speech commands using CNNs. The dataset we are using for training the CNN models is the Speech commands dataset, which can be found here: http://download.tensorflow.org/data/speech_commands_v0.02.tar.gz. This is currently a work in progress. 
